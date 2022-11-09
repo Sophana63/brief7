@@ -1,5 +1,9 @@
 # Brief 7 - Book Business
 
+## Partie 1 - Modéliser la chaine de markov utile pour optimiser l'algorithme de classement google de votre entreprise
+
+Le fichier se trouve à la racine du git et se nomme markov_chains_TP.ipynb
+
 ## Partie 2
 
 ### Mission 1
