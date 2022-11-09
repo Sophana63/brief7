@@ -20,7 +20,7 @@ Le tri terminé, il va me rester 336713 entriés.
 
 ### Mision 2
 
-#### a. Indicateurs de tendance centrale et de dispersion
+#### A. Indicateurs de tendance centrale et de dispersion
 
 Je vais utiliser que la BDD produits pour ces exercices. 
 ```
@@ -37,4 +37,8 @@ min       0.620000     0.000000
 75%      22.990000     1.000000
 max     300.000000     2.000000
 ```
-J'obtiens alors, la moyenne, l'écart-type, le min et le max
+J'obtiens alors, la moyenne, l'écart-type, le min et le max.
+Boîte à moustache pour les prix de chaque articles
+![alt text](images/subplot.png)
+
+#### B. analyse de concentration, via une courbe de Lorenz et un indice de Gini
