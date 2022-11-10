@@ -21,3 +21,11 @@ Le fichier se trouve à la racine du git et se nomme **markov_chains_TP.ipynb**
 ### Mission 1
 Le projet contenait 3 bases de données : ventes, clients et produits. Après les avoir liées, un nettoyage s'imposait.
 J'ai commencé par supprimer les doublons, enlever les lignes contenant des cellules vides ou fausses.
+
+### Mission 2
+Je devrais analyser les données néttoyées pour mieux comprendre les ventes.
+Des graphiques ont été réalisés. J'ai créé un document sous Libre Office qui explique toutes les corrélations, indicateurs, analyses et représentations graphiques.
+Le fichier se nomme analyse.odt
+
+### Mission 3
+Elle consiste à des analyses supplémentaires souvent corréler avec l'âge des clients. Les explications sont aussi dans le fichier analyse.odt.
