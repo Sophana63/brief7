@@ -13,8 +13,7 @@ pip install seaborn
 
 ## Partie 1 - Modéliser la chaine de markov utile pour optimiser l'algorithme de classement google de votre entreprise
 
-Le fichier se trouve à la racine du git et se nomme **markov_chains_TP.ipynb**
-
+Le fichier se trouve à la racine du git et se nomme **markov_chains_TP.ipynb**  
 
 ## Partie 2 - Analyser les données issues des ventes en ligne de l'entreprise
 
