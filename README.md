@@ -15,6 +15,7 @@ pip install seaborn
 
 Le fichier se trouve à la racine du git et se nomme **markov_chains_TP.ipynb**  
 
+  
 ## Partie 2 - Analyser les données issues des ventes en ligne de l'entreprise
 
 ### Mission 1
